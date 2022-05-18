@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
 <!--   <a href="https://sunguoqi.com/"> -->
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi there here is a coding roccoon!&center=true&size=27">
 <!--   </a> -->
 </h1>
 

@@ -1,6 +1,9 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon)](https://git.io/typing-svg) 👋
 <div align="center"> 
-  <img src="https://metrics.lecoq.io/ippanpeopleWillyLin?template=classic&config.timezone=Asia%2FShanghai" style="color:red;"> 
+  <img src="https://metrics.lecoq.io/ippanpeopleWillyLin?template=classic&config.timezone=Asia%2FShanghai"> 
+</div>
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=ippanpeopleWillyLin&theme=xcode" /> 
 </div>
 
 

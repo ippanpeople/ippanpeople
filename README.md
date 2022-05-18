@@ -1,4 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon)](https://git.io/typing-svg) 👋
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "rinRin",
+  "username": "ipannpeopleWillyLin"
+}
 <div align="center"> 
   <img src="https://metrics.lecoq.io/ippanpeopleWillyLin?template=classic&config.timezone=Asia%2FShanghai"> 
 </div>

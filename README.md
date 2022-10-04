@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon" />
@@ -41,7 +40,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
   </a>
 </p>

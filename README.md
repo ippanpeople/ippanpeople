@@ -28,5 +28,5 @@
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&hide=contribs,prs)
+<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&hide=contribs,prs)<h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

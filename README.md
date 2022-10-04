@@ -30,6 +30,7 @@
   <img alt="bootstrap5" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" title="bootstrap5">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img alt="docker" src="https://git.infra-lab.xyz/uploads/-/system/project/avatar/46/docker-gif-4.gif" width="85" title="docker">
 </div>
 
 <!-- just img -->

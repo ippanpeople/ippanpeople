@@ -43,7 +43,7 @@
 
 
   <a>
-    <img style="height:195px; isplay:flex; float:right;" src="https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
+    <img style="height:195px; display:flex; float:right;" src="https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
   </a>
 
 

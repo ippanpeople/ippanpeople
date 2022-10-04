@@ -1,8 +1,12 @@
-<center>Hi there 👋 </center>
-<center> <h1>heading 1</h1> </center>
+<h1 align="center">Hi there 👋</h1>
 
 <!-- 动态打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=Hi+there+this+is+a+coding+raccoon" />
+  </a>
+</p>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>

@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=This+is+rinriN+I+am a coding+raccoon+~+~+~" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=17FF1E&lines=This+is+rinriN+coding+~+~+~" />
   </a>
 </p>
 

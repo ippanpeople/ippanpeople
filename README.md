@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ippanpeople&title=PullRequest,Repositories,Commits,Followers,MultiLanguage&theme=dracula" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ippanpeople&title=Issues,PullRequest,Repositories,Commits,Followers,MultiLanguage&theme=dracula" />
   </a>
 </p>

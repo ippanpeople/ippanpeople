@@ -10,3 +10,4 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

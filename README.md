@@ -36,16 +36,16 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&hide=contribs&theme=radical) -->
-<div style="float:left; display:inline">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
   </a>
-</div>
-<div style="float:right; display:inline">
+
+
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
   </a>
-</div>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

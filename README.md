@@ -41,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
+    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
   </a>
 </p>
 

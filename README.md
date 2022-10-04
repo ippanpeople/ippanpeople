@@ -38,12 +38,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippanpeople&hide=contribs&theme=radical) -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="height:195px; isplay:flex; float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
+    <img style="height:195px;display:flex;float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippanpeople&layout=compact&theme=radical" />
   </a>
 
 
   <a>
-    <img style="height:195px; display:flex; float:right;" src="https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
+    <img style="height:195px;display:flex;float:right;" src="https://github-readme-stats.vercel.app/api?username=ippanpeople&show_icons=true&theme=radical" />
   </a>
 
 

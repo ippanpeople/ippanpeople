@@ -31,7 +31,7 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
   <img alt="docker" src="https://git.infra-lab.xyz/uploads/-/system/project/avatar/46/docker-gif-4.gif" width="85" title="docker">
-  <img alt="react" src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif" width="85" title="react">
+  <img alt="react" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frevelry.co%2Finsights%2Fdesign%2Fux-design-react-native%2F&psig=AOvVaw2In5b8fkGJk62j-cqGacji&ust=1664974685478000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODkn5jQxvoCFQAAAAAdAAAAABAD" width="85" title="react">
   <img alt="laravel" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="85" title="laravel">
   <img alt="vue" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="85" title="vue">
 </div>

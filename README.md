@@ -30,8 +30,8 @@
   <img alt="bootstrap5" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" title="bootstrap5">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-  <img alt="docker" src="https://git.infra-lab.xyz/uploads/-/system/project/avatar/46/docker-gif-4.gif" width="85" title="docker">
-  <img alt="react" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="85" title="react">
+  <img alt="docker" src="https://git.infra-lab.xyz/uploads/-/system/project/avatar/46/docker-gif-4.gif" width="90" title="docker">
+  <img alt="react" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="100" title="react">
   <img alt="laravel" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="85" title="laravel">
   <img alt="vue" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="85" title="vue">
 </div>

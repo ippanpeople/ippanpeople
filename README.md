@@ -30,7 +30,7 @@
   <img alt="vue" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="85" title="vue">
 </div>
 
-<!-- just img -->
+<!-- imgs -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <p align="center">
